@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25920'
     url: http://www.gutenberg.org/2009/agents/25920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23581#Opportunities-in-Aviation
 gutenberg_issued: '2007-11-21'
 gutenberg_type: Text
 identifiers:
